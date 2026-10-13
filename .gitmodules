@@ -1,0 +1,75 @@
+[submodule "File-Manager"]
+	path = File-Manager
+	url = https://github.com/Zephyrrro/File-Manager.git
+
+[submodule "FileBrowser"]
+	path = FileBrowser
+	url = https://github.com/Jerry-ojk/FileBrowser.git
+
+[submodule "FileOperator"]
+	path = FileOperator
+	url = https://github.com/javakam/FileOperator.git
+
+[submodule "KhmerUnicodeLayout-for-External-Keyboard"]
+	path = KhmerUnicodeLayout-for-External-Keyboard
+	url = https://github.com/socheatsok78/KhmerUnicodeLayout-for-External-Keyboard.git
+
+[submodule "Launcher/AndroidTVLauncher"]
+	path = Launcher/AndroidTVLauncher
+	url = https://github.com/JackyAndroid/AndroidTVLauncher.git
+
+[submodule "Launcher/KISS"]
+	path = Launcher/KISS
+	url = https://github.com/Neamar/KISS.git
+
+[submodule "Launcher/Launcher"]
+	path = Launcher/Launcher
+	url = https://github.com/NashLegend/Launcher.git
+
+[submodule "Launcher/Launcher3"]
+	path = Launcher/Launcher3
+	url = https://github.com/hashware/Launcher3.git
+
+[submodule "Launcher/LauncherJellyBean"]
+	path = Launcher/LauncherJellyBean
+	url = https://github.com/chrislacy/LauncherJellyBean.git
+
+[submodule "Launcher/LauncherX"]
+	path = Launcher/LauncherX
+	url = https://github.com/cczheng/LauncherX.git
+
+[submodule "Launcher/Neo-Launcher"]
+	path = Launcher/Neo-Launcher
+	url = https://github.com/NeoApplications/Neo-Launcher.git
+
+[submodule "Launcher/PojavLauncher"]
+	path = Launcher/PojavLauncher
+	url = https://github.com/PojavLauncherTeam/PojavLauncher.git
+
+[submodule "Launcher/TUI-ConsoleLauncher"]
+	path = Launcher/TUI-ConsoleLauncher
+	url = https://github.com/fandreuz/TUI-ConsoleLauncher.git
+
+[submodule "Launcher/android_packages_apps_Trebuchet"]
+	path = Launcher/android_packages_apps_Trebuchet
+	url = https://github.com/CyanogenMod/android_packages_apps_Trebuchet.git
+
+[submodule "Launcher/androidlauncher"]
+	path = Launcher/androidlauncher
+	url = https://github.com/pawelpaszki/androidlauncher.git
+
+[submodule "Launcher/openlauncher"]
+	path = Launcher/openlauncher
+	url = https://github.com/OpenLauncherTeam/openlauncher.git
+
+[submodule "MaterialFiles"]
+	path = MaterialFiles
+	url = https://github.com/zhanghai/MaterialFiles.git
+
+[submodule "PinyinIME"]
+	path = PinyinIME
+	url = https://github.com/ideastudios/PinyinIME
+
+[submodule "picotts"]
+	path = picotts
+	url = https://github.com/ihuguet/picotts.git
